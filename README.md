@@ -1,3 +1,6 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
-## car0517
+## EUID
+car0517
+## Favorite Linux Command
+cat
